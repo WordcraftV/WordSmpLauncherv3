@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "wordsmplauncherv3",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
+  "productName": "WordSmp Launcher",
+  "description": "Un Launcher crée pour accéder au mods du WordSmp",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/WordcraftV/WordSmpLauncherv3",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/WordcraftV/WordSmpLauncherv3/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/WordcraftV/WordSmpLauncherv3.git"
   }
 }
