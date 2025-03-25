@@ -1,9 +1,9 @@
 {
   "name": "wordsmplauncherv3",
-  "version": "3.0.1",
+  "version": "3.0.5",
   "productName": "WordSmp Launcher",
   "description": "Un Launcher crée pour accéder au mods du WordSmp",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Wordcraft_V (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/WordcraftV/WordSmpLauncherv3",
   "bugs": {
